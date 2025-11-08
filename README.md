@@ -60,5 +60,5 @@ elif operator == "*":
 else:
     print(f"This {operator} is not a valid operator")
 # A simple Python Calculator
-
+'''
 This is a simple fun **Python Calculator** 
